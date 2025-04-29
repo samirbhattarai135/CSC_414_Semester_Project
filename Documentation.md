@@ -1,8 +1,8 @@
-# Course Planning API Documentation
+# Advisement Assistant Backend Documentation
 
 ## Introduction
 
-This document provides details on the features and API endpoints for the Course Planning Backend system. The API allows users to manage their academic profile, track course progress, and receive personalized course recommendations.
+This document provides details on the features and API endpoints for the Advisement Assistant Backend system. The API allows users to manage their academic profile, track course progress, and receive personalized course recommendations.
 
 ## Core Features
 
