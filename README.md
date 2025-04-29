@@ -24,7 +24,7 @@ For detailed information on features and API endpoints, please see the [DOCUMENT
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/samirbhattarai135/CSC_414_Semester_Project
     cd CSC_414_Semester_Project
     ```
 
