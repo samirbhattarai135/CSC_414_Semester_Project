@@ -56,7 +56,7 @@ These endpoints handle user registration and login.
     "email": "unique.email@example.com",
     "password": "yourpassword",
     "studentId": "UNIQUE_S12345",
-    "interests": ["web development", "ai"] // Optional array of strings
+    "interests": ["web development", "ai"] // Optional array for strings
   }
   ```
 - **Success Response (201 Created):**
